@@ -14,16 +14,16 @@
       Curriculum
     </h2>
     <p>
-      The youth hapkido program covers basic martial arts techniques like punching, kicking, throwing, and grappling. It also has a code that student's memorize over time and encourages self-development. 
+      The youth hapkido program covers basic martial arts techniques like punching, kicking, throwing, and grappling. It also has a code that students memorize over time and encourages self-development. 
     </p>
     <h2>
       Youth Memberships
     </h2>
-    <p>
-        3 month trial -- $300 one time payment, 
-        6 month -- $100/mo
-        1 year -- $90/mo
-    </p>
+    <ul>
+      <li>3 Month Trial Membership -- $300 one-time payment</li>
+      <li>6 Month Monthly Membership -- $120/monthly payments</li>
+      <li>Annual Monthly Membership -- $95/monthly payments</li>
+    </ul>
     <p>
       Youth classes are Tuesday and Thursday at 5:00 pm.
     </p>

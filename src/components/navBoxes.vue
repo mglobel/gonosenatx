@@ -54,6 +54,10 @@
     justify-content: center;
   }
 
+  a {
+    color: white;
+  }
+
   .nav-box {
     height: 300px;
     width: 300px;
