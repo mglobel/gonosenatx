@@ -1,7 +1,7 @@
 <template>
   <section class='container'>
     <h1>Martial Arts Classes</h1>
-    At Go No Sen we welcome all martial arts and a preparedness for any situation. We offer regular classes in Hapkido and Jiu-Jitsu. View our schedule to see class times.
+    At Go No Sen we welcome all martial arts and a preparedness for any situation. We offer regular classes in Hapkido and Jiu-Jitsu. View <router-link to='/'>our schedule</router-link> to see class times.
 
     <h2>
       Hapkido
